@@ -1,5 +1,4 @@
-# TP3-2024-CDyM-G4 Graciano Zanetti
-Proyecto de Sensor de Temperatura y Humedad con DHT11 y RTC
+# Proyecto de Sensor de Temperatura y Humedad con DHT11 y RTC
 
 # Descripción
 Este proyecto implementa un sistema de medición de temperatura y humedad utilizando el sensor DHT11 y un reloj en tiempo real (RTC) para registrar la fecha y la hora de las mediciones. La comunicación entre el microcontrolador y otros dispositivos se realiza a través de UART. El sistema está diseñado para funcionar con un microcontrolador ATmega328P y el entorno de desarrollo AVR.
